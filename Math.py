@@ -158,5 +158,3 @@ def print_maxes():
     print(f"Max mach: {max(mac):.4f}")
 
 print_maxes()
-show_CD()
-show_thrust()
