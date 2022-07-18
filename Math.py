@@ -159,3 +159,4 @@ def print_maxes():
 
 print_maxes()
 show_CD()
+show_thrust()
